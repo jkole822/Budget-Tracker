@@ -8,8 +8,7 @@
 		"server": "node server.js",
 		"client": "npm run start --prefix client",
 		"dev": "concurrently \"npm run server\" \"npm run client\"",
-		"lite-server": "lite-server",
-		"heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+		"lite-server": "lite-server"
 	},
 	"repository": {
 		"type": "git",
