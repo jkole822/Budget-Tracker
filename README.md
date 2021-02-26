@@ -6,6 +6,8 @@
 
 Tracks withdrawals and deposits to assist the user in managing their budget. Previous transactions are used to display the current total, a list of transactions, and an integrated line chart.
 
+[View Live Demo](https://jkg-budget-tracker.herokuapp.com/)
+
 ## Table of Contents
 
 - [View](#view)
@@ -16,7 +18,7 @@ Tracks withdrawals and deposits to assist the user in managing their budget. Pre
 
 ## View
 
-![Budget App](./public/images/budget-tracker.png)
+![Budget App](./client/images/budget-tracker.png)
 
 ## Installation
 
